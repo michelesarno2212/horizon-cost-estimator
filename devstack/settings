@@ -1,2 +1,2 @@
-enable_service horizon-cost_estimator
-define_plugin horizon-cost_estimator
+enable_service horizon_cost_estimator
+define_plugin horizon_cost_estimator
